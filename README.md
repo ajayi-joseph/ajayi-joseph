@@ -48,7 +48,7 @@ const ajayiJoseph = {
 
 ## 🎯 What I'm up to
 
-- 🔭 Building scalable healthcare dashboards with **React** & **TypeScript**
+- 🔭 Building scalable systems with **React** & **TypeScript**
 - 🌱 Currently learning **Go** for backend microservices
 - 💡 Optimizing frontend applications for **60% faster response times**
 - 🏗️ Designing architectures that maintain **99.9% uptime**
