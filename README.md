@@ -1,7 +1,7 @@
-# Hey, I'm Ajayi Joseph 👋
+# Hey, I'm Joseph Ajayi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Healthcare+%26+Fintech+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Frontend+Engineer" alt="Typing SVG" />
 </div>
 
 ## About Me
