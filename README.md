@@ -26,7 +26,7 @@ const ajayiJoseph = {
   frontend: {
     frameworks: ["React", "React Native", "Vue.js", "Angular", "Flutter", "Next.js"],
     stateManagement: ["Redux", "Zustand", "Context API", "MobX"],
-    styling: ["Tailwind", "SASS", "CSS-in-JS", "Bootstrap"],
+    styling: ["CSS3", "Tailwind", "SASS", "CSS-in-JS", "Bootstrap"],
     visualization: ["D3.js", "WebGL", "Canvas API"]
   },
   
