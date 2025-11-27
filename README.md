@@ -19,7 +19,6 @@ I'm a **Senior Software Engineer** with experience designing and implementing sc
 ```javascript
 const ajayiJoseph = {
   location: "Coventry, UK 🇬🇧",
-  experience: "7+ years",
   
   languages: ["JavaScript ES6/7+", "TypeScript", "Java", "Python", "Dart", "SQL", "Go (learning)"],
   
