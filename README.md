@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Senior Software Engineer** with over 7 years of experience designing and implementing scalable healthcare, fintech, and e-commerce applications. I specialize in building high-performance systems that handle millions of transactions daily.
+I'm a **Senior Software Engineer** with experience designing and implementing scalable healthcare, fintech, and e-commerce applications. I specialize in building high-performance systems that handle millions of transactions daily.
 
 🚀 **Impact Driven:**
 - Improved system performance by **60%**
