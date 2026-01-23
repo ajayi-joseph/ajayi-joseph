@@ -17,11 +17,9 @@ I'm a **Senior Software Engineer** with experience designing and implementing sc
 ## 🛠️ Tech Stack
 
 ```javascript
-const ajayiJoseph = {
-  location: "Coventry, UK 🇬🇧",
-  
+const ajayiJoseph = {  
   languages: ["JavaScript ES6/7+", "TypeScript", "Java", "Python", "Dart", "SQL", "Go (learning)"],
-  
+
   frontend: {
     frameworks: ["React", "React Native", "Vue.js", "Angular", "Flutter", "Next.js"],
     stateManagement: ["Redux", "Zustand", "Context API", "MobX"],
